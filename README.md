@@ -55,15 +55,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanhumanly&theme=github_dark&v=2" alt="Tan's GitHub profile summary">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanhumanly&theme=github_dark&v=2" alt="Top languages by repo">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanhumanly&theme=github_dark&v=2" alt="Most-committed languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanhumanly&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&v=2" alt="GitHub streak">
-</p>
-
 ---
 
 <p align="center">
