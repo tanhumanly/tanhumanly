@@ -16,6 +16,7 @@
 ### 🧬 About
 
 - 🛠️  Engineer at **[Humanly](https://humanly.io)** — AI-powered conversations for recruiting.
+- 🎯  Shipping features toward Humanly's mission: make hiring more human and less biased.
 - ⚡  Polyglot across the stack — Elixir, Ruby, TypeScript, React, Elm, and more.
 
 ---
@@ -48,12 +49,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanhumanly&show_icons=true&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7&bg_color=0D1117&text_color=C9D1D9" alt="Tan's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanhumanly&layout=compact&hide_border=true&title_color=6C5CE7&bg_color=0D1117&text_color=C9D1D9" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanhumanly&theme=github_dark" alt="Tan's GitHub profile summary">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanhumanly&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanhumanly&theme=github_dark" alt="Top languages by repo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanhumanly&theme=github_dark" alt="Most-committed languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tanhumanly&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=6C5CE7&currStreakLabel=6C5CE7&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub streak">
 </p>
 
 ---
