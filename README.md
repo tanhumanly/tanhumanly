@@ -16,7 +16,7 @@
 ### 🧬 About
 
 - 🛠️  Engineer at **[Humanly](https://humanly.io)** — AI-powered conversations for recruiting.
-- 🎯  Shipping features toward Humanly's mission: make hiring more human and less biased.
+- 🎯  Mission: make hiring more human and less biased.
 - ⚡  Polyglot across the stack — Elixir, Ruby, TypeScript, React, Elm, and more.
 
 ---
